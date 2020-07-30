@@ -1,0 +1,8 @@
+node_modules
+coverage
+.nyc_output
+tmp
+tmp2
+package-lock.json
+source
+_out_
